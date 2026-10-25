@@ -1,0 +1,8 @@
+# Метаданные для gamedev-hub. Хаб читает этот файл из main и показывает на дашборде.
+# phase: idea | prototype | vertical-slice | content | polish | released | paused | archived
+name: Tile-Walker
+tagline: Гиперказуалка для смартфонов про шагание по плитке: реалистичная физика скелета на джоинтах, управление в один тап
+engine: Godot 4.4
+phase: idea
+tracker: github-issues
+next: ""            # одна строка: что сейчас главное
